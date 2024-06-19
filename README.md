@@ -31,7 +31,7 @@ The `support_materials/` directory includes resources for additional tutoring se
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/experimental-materials.git
+    git clone https://github.com/aniitadiazm/ESEM2024-Diazetal.git
     ```
 2. **Navigate through the directories** to access the specific materials you need.
 3. **Refer to the README files** in each directory for detailed information on the contents and how to use them.
@@ -39,8 +39,8 @@ The `support_materials/` directory includes resources for additional tutoring se
 ## Contact
 
 For any questions or further information, please contact:
-- [Your Name]
-- [Your Email]
+- Ana Díaz Muñoz
+- adiaz@aqclab.es
 
 We welcome feedback and collaboration. If you have any suggestions or would like to contribute to this repository, please feel free to create an issue or submit a pull request.
 
